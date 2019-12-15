@@ -1,0 +1,4 @@
+Starting Training 
+Encoder and Decoder Created
+Current mem usage: 75.0 
+Number of epochs 100 
